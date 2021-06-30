@@ -24,7 +24,7 @@
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
-  --bs-primary: #bd5d38;
+  --bs-primary: #2eaa92;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -209,11 +209,11 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #214575;
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #214575;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -7353,7 +7353,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #bd5d38 !important;
+  color: #203F69 !important;
 }
 
 .text-secondary {
@@ -7409,7 +7409,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #203F69 !important;
 }
 
 .bg-secondary {

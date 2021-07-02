@@ -10997,3 +10997,34 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+
+
+
+#fotodudu{
+  margin-top: -50px;
+  text-align: center;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+@media (max-width: 991.98px){
+#fotodudu{
+    display: block;
+}
+
+#nomeDaFera {
+  text-align:center;
+}
+
+}
+@media (min-width: 991.98px){
+#fotodudu{
+    display: none;
+}
+
+
+}
